@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/jpaugusto13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedroaugusto&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpaugusto13&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
