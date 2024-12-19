@@ -3,8 +3,6 @@
 <h3> :brazil: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando *Técnico de informática* no <a href="https://ifce.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Ceará</a>.
-- 💼 &nbsp; Trabalhando como *Desenvolvedor Front-End* na <a href="">NeoCode Solutions</a>
 - 🌱 &nbsp; Aprendendo mais sobre *ReactJs*.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -18,7 +16,7 @@
    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
    ![sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedroaugusto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaugusto13&layout=compact&langs_count=7&theme=dracula"/>
   
 *DevOps*
 
@@ -33,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/Jpedroaugusto">
+<a href="https://github.com/jpaugusto13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpedroaugusto&theme=dracula&show_icons=true" />
 </a>
 
@@ -42,4 +40,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-pedroaugusto131204@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroaugusto131204@gmail.com)]
-[![]( https://img.shields.io/github/followers/Jpedroaugusto?label=follow&style=social)]
+[![]( https://img.shields.io/github/followers/jpaugusto13?label=follow&style=social)]
